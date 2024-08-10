@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain_core
+python-dotenv
+langchain_community
+flask
+uvicorn
+langchainhub
+
+
