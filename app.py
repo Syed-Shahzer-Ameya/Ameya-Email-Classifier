@@ -61,5 +61,5 @@ def classify_email():
         return jsonify({"error": str(e)}), 500
 
 # Run the Flask application on all available IP addresses (host '0.0.0.0') on port 8000
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8000)
+# if __name__ == '__main__':
+#     app.run(host='0.0.0.0', port=8000)
